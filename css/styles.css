@@ -209,35 +209,6 @@ button {
   margin-bottom: 8px;
 }
 
-.icon-clock-one {
-  display: flex; 
-  align-items: center;
-  justify-content: center;
-  height: 112px;
-  background-color: #f4f4fd;
-  border-radius: 4px;
-  margin-bottom: 8px;
-}
-
-.icon-diagram-one {
-  display: flex; 
-  align-items: center;
-  justify-content: center;
-  height: 112px;
-  background-color: #f4f4fd;
-  border-radius: 4px;
-  margin-bottom: 8px;
-}
-
-.icon-astronaut-one {
-  display: flex; 
-  align-items: center;
-  justify-content: center;
-  height: 112px;
-  background-color: #f4f4fd;
-  border-radius: 4px;
-  margin-bottom: 8px;
-}
 /* end of div-classes-for-icons */
 
 .caption-third {
