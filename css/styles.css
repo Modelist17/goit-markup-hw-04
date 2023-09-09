@@ -31,6 +31,8 @@ img {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
+  display: flex;
+  align-items: baseline;
 }
 
 .page-navigation {
@@ -414,7 +416,7 @@ button {
 .page-footer {
   background-color: #2e2f42;
   padding: 100px 0;
-  margin-right: auto; 
+  margin-right: auto;
   margin-left: auto;
 }
 
@@ -424,8 +426,6 @@ button {
 }
 
 .container-footer-div {
-  display: flex;
-  align-items: baseline;
   /* am not sure */
   margin-right: 120px;
 }
