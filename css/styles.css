@@ -428,12 +428,12 @@ button {
   margin-bottom: 16px;
 }
 
+/* div for p and logo */
 .container-footer-div {
-  /* am not sure */
   margin-right: 120px;
 }
 
-.container .footer-container {
+.container-footer {
   display: flex;
 }
 
