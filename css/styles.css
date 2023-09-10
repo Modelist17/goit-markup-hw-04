@@ -1,3 +1,13 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
 .link {
   text-decoration: none;
 }
@@ -446,10 +456,11 @@ button {
 }
 
 .footer-paragraph {
-  line-height: 1.5;
   color: #f4f4fd;
-  letter-spacing: 0.02em;
-  max-width: 264px;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+  width: 264px;
 }
 
 .social-footer-text {
@@ -485,7 +496,7 @@ button {
 
 .main-social-link:hover,
 .main-social-link:focus {
-  background-color: #31d0aa; 
+  background-color: #31d0aa;
   background-color: #31d0aa;
 }
 
